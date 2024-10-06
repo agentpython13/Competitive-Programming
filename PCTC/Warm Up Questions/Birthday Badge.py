@@ -1,0 +1,5 @@
+age = input()
+symbol = input()
+print(symbol*(len(age)+2))
+print(symbol+age+symbol)
+print(symbol*(len(age)+2))

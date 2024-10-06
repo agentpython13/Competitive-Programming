@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+c = int(input())
+print(min(a,b,c))
+print(min(a,b,c)*4)
+print(min(a,b,c)**2)
